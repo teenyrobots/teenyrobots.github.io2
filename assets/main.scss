@@ -4,3 +4,118 @@
 
 @import "minima";
 
+* {
+  font-family: 'Muli', sans-serif;
+}
+
+a {
+  color: #FF6476;
+}
+
+a:hover {
+  color: #DD001A;
+}
+
+a:visited {
+  color: #DD001A;
+}
+
+header {
+  width: 95%;
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1em;
+  color: #707070;
+}
+
+header h2, header ul, header li {
+  display: inline-block;
+  margin: 1em;
+}
+
+header a {
+  color: inherit;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: none;
+}
+
+header a:visited {
+  color: inherit;
+}
+
+header h1 {
+  display: inline-block;
+  background-color: #FF6476;
+  padding: .35em;
+  padding-top: .75em;
+  color: white;
+  font-weight: 600;
+}
+
+header h2 {
+  padding-bottom: .2em;
+  font-weight: 600;
+}
+
+header ul {
+  list-style-type: none;
+  margin-top: 1.25em;
+}
+
+header li {
+  font-size: 1.15em;
+  margin-bottom: .25em;
+  padding-bottom: .41em;
+  margin-right: 0;
+  margin-left: 2em;
+}
+
+header a:hover {
+  color: #FF6476;
+}
+
+.selected {
+  border-bottom: 8px #FF6476 solid;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: none;
+  min-height: 0;
+  position: static;
+}
+
+.wrapper {
+  max-width: 725px;
+}
+
+/* smol bois */
+
+@media only screen and (max-width: 425px) {
+  header li {
+    margin: .5em;
+  }
+
+  header ul {
+    margin-top: 0;
+  }
+
+  header h1, header h2 {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+
+}
+
+@media only screen and (max-width: 320px) {
+  header li {
+    font-size: 1em;
+  }
+
+}
