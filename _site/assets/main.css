@@ -309,7 +309,7 @@ table {
  */
 .page-content {
   padding: 30px 0;
-  flex: 1; }
+  flex: 1 0 auto; }
 
 .page-heading {
   font-size: 32px; }
@@ -504,8 +504,11 @@ table {
   .highlight .il {
     color: #099; }
 
-* {
+body {
   font-family: 'Muli', sans-serif; }
+
+.wrapper {
+  max-width: 1000px; }
 
 a {
   color: #FF6476; }
@@ -565,6 +568,27 @@ header li {
 header a:hover {
   color: #FF6476; }
 
+.topHr {
+  margin-bottom: 0; }
+
+h2.post-list-heading {
+  text-align: center;
+  margin: 0 auto;
+  font-weight: bold;
+  font-size: 2em; }
+
+.bottomHr {
+  margin-bottom: 3em; }
+
+.post-list li {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: baseline; }
+
+.post-meta {
+  min-width: 150px; }
+
 .selected {
   border-bottom: 8px #FF6476 solid; }
 
@@ -574,10 +598,25 @@ header a:hover {
   min-height: 0;
   position: static; }
 
-.wrapper {
-  max-width: 725px; }
+article {
+  max-width: 725px;
+  margin: auto; }
+
+.post-header {
+  text-align: left;
+  display: block;
+  margin: 0; }
+
+.post-header h1 {
+  color: #FF6476;
+  background-color: transparent;
+  padding: 0;
+  font-size: 2em; }
 
 /* smol bois */
+@media only screen and (max-width: 768px) {
+  .post-list li {
+    flex-wrap: wrap; } }
 @media only screen and (max-width: 425px) {
   header li {
     margin: .5em; }
