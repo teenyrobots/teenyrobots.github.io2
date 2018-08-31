@@ -5,10 +5,12 @@
 @import "minima";
 
 body {
+  line-height: 1.25;
   font-family: 'Muli', sans-serif;
 }
 
 .wrapper {
+  width: 95%;
   max-width: 1000px;
 }
 
@@ -85,15 +87,20 @@ header a:hover {
 
 // home page
 
+.page-content {
+  padding-top: 0;
+}
+
 .topHr {
   margin-bottom: 0;
 }
 
 h2.post-list-heading {
   text-align: center;
-  margin: 0 auto;
-  font-weight: bold;
+  margin: .15em auto;
+  font-weight: 600;
   font-size: 2em;
+  color: #707070;
 }
 
 .bottomHr {
@@ -103,12 +110,28 @@ h2.post-list-heading {
 .post-list li {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: baseline;
 }
 
-.post-meta {
+.post-list li img {
+  object-fit: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.post-meta-container {
   min-width: 150px;
+}
+
+.post-meta-container ul {
+  margin: .25em 0;
+}
+
+.post-meta-container ul li {
+  display: inline;
+  padding: 0 .5em 0 0;
+  font-size: .8em;
 }
 
 .selected {
@@ -120,6 +143,11 @@ h2.post-list-heading {
   border-bottom: none;
   min-height: 0;
   position: static;
+}
+
+.rss-subscribe {
+  text-align: right;
+  font-size: .75em;
 }
 
 // post stuff
@@ -141,9 +169,6 @@ article {
   padding: 0;
   font-size: 2em;
 }
-
-
-
 
 
 /* smol bois */
