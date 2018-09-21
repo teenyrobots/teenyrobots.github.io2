@@ -5,9 +5,11 @@ date:   2018-09-18 15:15:00 -0700
 tags: bloggin
 ---
 
-![catalog](_site/assets/postImages)
+![catalog](/assets/postImages/0921-catalog2.gif)
 
 After undergrad, in 2010, I was desperate to go into information science. I researched programs in my area, priced them, out, came up with [increasingly hair-brained schemes to pay for it](https://en.wikipedia.org/wiki/Debt-to-income_ratio). Part of this desperation came from graduating into a recession with a comics degree (ooops), but part of it was from feeling like I'd never keep anything straight now that I was out of school.
+
+<!--more-->
 
 I have a hunger for knowledge. My favorite website is [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and my favorite place is the used book store. Despite this constrant quest for new information, I've never been great at recall; I don't know [which Stephen King books I've read](https://www.goodreads.com/review/list/1398297-joycer?utf8=%E2%9C%93&search%5Bquery%5D=stephen+king), I always doubt my [edible mushroom chops](https://www.google.com/search?q=chicken+of+the+woods&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiigK2AjcjdAhW7HjQIHQcfC9YQ_AUIDigB&biw=1680&bih=948), and I can never remember the title of my [favorite book on HTML5](https://books.google.com/books/about/HTML5.html?id=uuGbAgAAQBAJ&source=kp_book_description). I have always needed clues. I have always relied heavily on information systems, and I'm always trying to optimize them, to better uplift my brain's natural recall (or lack there of).
 
