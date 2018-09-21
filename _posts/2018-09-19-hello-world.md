@@ -2,8 +2,10 @@
 layout: post
 title:  "Hello World!"
 date:   2018-09-18 15:15:00 -0700
-tags: on bloggin
+tags: bloggin
 ---
+
+![catalog](_site/assets/postImages)
 
 After undergrad, in 2010, I was desperate to go into information science. I researched programs in my area, priced them, out, came up with [increasingly hair-brained schemes to pay for it](https://en.wikipedia.org/wiki/Debt-to-income_ratio). Part of this desperation came from graduating into a recession with a comics degree (ooops), but part of it was from feeling like I'd never keep anything straight now that I was out of school.
 
