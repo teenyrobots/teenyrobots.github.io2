@@ -515,9 +515,9 @@ body {
 a {
   color: #FF6476; }
 
-a:hover {
+a:hover, a:active {
   color: #DD001A;
-  text-decoration: underline wavy #DD001A; }
+  text-decoration: underline; }
 
 a:visited {
   color: #DD001A; }
