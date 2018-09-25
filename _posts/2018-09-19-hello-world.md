@@ -9,7 +9,7 @@ tags: bloggin
 
 After undergrad, in 2010, I was desperate to go into information science. I researched programs in my area, priced them, out, came up with various hair-brained schemes to [pay for it](https://en.wikipedia.org/wiki/Debt-to-income_ratio). Part of this desperation came from graduating into a recession with a comics degree (ooops), but part of it was from feeling like I'd never keep anything straight now that I was out of school.
 
-<!--more-->
+
 
 [Catalogs](https://en.wikipedia.org/wiki/Catalog) have always been an object of fascination for me. Library card catalogs, entomological and plant catalogs, even the Sears catalog that came in the paper on Sundays. I love taxonomies, I love understanding how groups of things interconnect and interdepend, how they're simliar and how they're special. It's what makes me both good at identifying trees and pumping out design comps.
 

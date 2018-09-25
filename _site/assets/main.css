@@ -510,13 +510,14 @@ body {
 
 .wrapper {
   width: 95%;
-  max-width: 1000px; }
+  max-width: 725px; }
 
 a {
   color: #FF6476; }
 
 a:hover {
-  color: #DD001A; }
+  color: #DD001A;
+  text-decoration: underline wavy #DD001A; }
 
 a:visited {
   color: #DD001A; }
@@ -587,18 +588,9 @@ h2.post-list-heading {
   margin-bottom: 3em; }
 
 .post-list li {
-  display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: baseline; }
-
-.post-list li img {
-  object-fit: cover;
-  object-position: top;
-  height: 100px;
-  width: 200px;
-  max-width: none;
-  padding-right: 1em; }
 
 .flexit {
   display: flex;
