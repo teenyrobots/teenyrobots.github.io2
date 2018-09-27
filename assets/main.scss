@@ -115,6 +115,12 @@ h2.post-list-heading {
   align-items: baseline;
 }
 
+.post-list img {
+  max-width: 75%;
+  display: block;
+  margin: auto;
+}
+
 //.post-list li img {
 //  object-fit: cover;
 //  object-position: top;

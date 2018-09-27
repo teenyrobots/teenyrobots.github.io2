@@ -592,6 +592,11 @@ h2.post-list-heading {
   justify-content: flex-start;
   align-items: baseline; }
 
+.post-list img {
+  max-width: 75%;
+  display: block;
+  margin: auto; }
+
 .flexit {
   display: flex;
   flex-wrap: nowrap;
