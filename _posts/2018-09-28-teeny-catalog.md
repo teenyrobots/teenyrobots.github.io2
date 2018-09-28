@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Catalogs"
-date:   2018-09-18 15:15:00 -0700
+title:  "A teeny catalog"
+date:   2018-09-28 11:15:00 -0700
 tags: bloggin
 ---
 
