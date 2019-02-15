@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  Digital Comics Ouevre
+date: 2019-02-15
+tags: lists
 ---
 
 A non-exhaustive and highly disorganized list of unique digital storytelling largely accomplished through comics.
