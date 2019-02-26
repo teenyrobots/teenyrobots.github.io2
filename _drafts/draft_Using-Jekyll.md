@@ -1,32 +1,18 @@
 ---
 layout: post
 title:  "2019 Book List"
-date:   2019-02-14 15:28:54 -0700
+date:   2019-02-14
 tags: bloggin, tools*
 ---
 
-Here are some books I plan on reading in 2019. I'll be updating this over the course of the year, so check back if you'd like to follow along! Italicized books are completed, bolded are in progress.
+Here are some tags I use:
 
-## Work
-- **CSS the Missing Manual by David Sawyer McFarland**
-- **Don’t Make Me Think by Steve Krug**
-- **Eloquent Javascript by Marijn Haverbeke**
-- Hello My Name is Awesome by Alexandra Watkins
-	- If anyone has a suggestion for a better book on naming/branding, holler at ya girl
-- Steering the Craft by Urusua K LeGuin
-- Just My Type by Simon Garfield
+- bloggin
+- tools
+- lists
+- process
 
-## Culture
-- _Amusing ourselves to death by Neil Postman_
-- **Bullshit jobs by David Graeber**
-- So You Want To Talk About Race by Ijeoma Oluo
-- Walden by Henry David Thoreau
+## Jekyll
+Preview drafts at http://127.0.0.1:4000/:
 
-
-## Fiction
-- **The Moon is a Harsh Mistress by Robert A. Heinlein**
-- Ancillary Justice by Ann Leckie
-
-## Comics
-- Redlands
-- Black Hammer
+`jekyll serve --drafts`

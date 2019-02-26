@@ -10,10 +10,11 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <hr class="topHr"><h2 class="post-list-heading">{{ page.list_title | default: "teeny catalog" }}</h2><hr class="bottomHr">
+    <h2 class="post-list-heading">{{ page.list_title | default: "teeny catalog" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
+      <hr style='margin-top: 2em; border: 0; border-bottom: 1px dashed black; margin-bottom: .5em;'>
+      <li style="margin-bottom: 3em;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <div class="post-meta-container">
           <span class="post-meta">{{ post.date | date: date_format }}</span>
