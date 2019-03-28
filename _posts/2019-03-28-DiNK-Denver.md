@@ -13,7 +13,7 @@ In two weeks I’ll be packing my bags for the Denver Independent Comics & Art E
 
 This will be my first time at DiNK, finally marrying my love for comics with my love for the Rocky Mountains. I’ll be representing the [CCA MFA in Comics](https://www.cca.edu/humanities-sciences/mfa-comics/), where I teach [Digital Comics](https://comics.cca.edu/) in their low-residency summer program. The CCA Comics community is such a treasure, and I love being a part of it. Come by and ask me anything about our program!
 
-![screenshot of comics.cca.edu](/../assets/postImages/032819-2.jpg)
+![screenshot of comics.cca.edu](/../assets/postImages/032819-4.png)
 _Comics.cca.edu_
 
 
