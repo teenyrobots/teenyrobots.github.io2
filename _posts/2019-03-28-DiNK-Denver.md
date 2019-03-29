@@ -34,4 +34,4 @@ _Get ur sticky on_
 If you won’t be making it to Colorado in April, never fear—in the next couple weeks I’m also setting up an all-new-and-improved online store with all my latest work. Also launching with the store are: a print mini of Debt Trap, stickers for W.l.T.C.H.es, a luxurious paper version of Hotel California, and more to come!
 
 ![all my latest work in a table spread](/../assets/postImages/032819-3.jpg)
-_Wares for days!_
+_All my latest work in a table spread, wow!_
