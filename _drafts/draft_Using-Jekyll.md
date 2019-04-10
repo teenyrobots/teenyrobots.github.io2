@@ -2,7 +2,7 @@
 layout: post
 title:  "2019 Book List"
 date:   2019-02-14
-tags: bloggin, tools*
+tags: bloggin, tools
 ---
 
 Here are some tags I use:
@@ -12,7 +12,8 @@ Here are some tags I use:
 - lists
 - process
 
-## Jekyll
-Preview drafts at http://127.0.0.1:4000/:
+## Jekyll uses markdown
 
-`jekyll serve --drafts`
+you can use images:
+
+![Debt friends](/../assets/postImages/022619-1-debtfriends.png)
