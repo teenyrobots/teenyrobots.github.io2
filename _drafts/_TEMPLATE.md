@@ -2,7 +2,7 @@
 layout: post
 title:  "2019 Book List"
 date:   2019-02-14
-tags: process
+tags: process, lists
 ---
 
 Here are some tags I use:
@@ -10,6 +10,7 @@ Here are some tags I use:
 - lists
 - process
 - sketchbook
+- 36daysoftype
 
 ---
 
